@@ -1,4 +1,11 @@
 ## Hi there 👋
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiptanGurung&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiptanGurung&layout=compact&theme=dark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=DiptanGurung&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DiptanGurung&theme=dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DiptanGurung&theme=react-dark)
+
+
 
 <!--
 **DiptanGurung/DiptanGurung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
