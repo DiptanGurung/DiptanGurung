@@ -63,6 +63,13 @@ I'm a passionate full-stack developer who loves crafting interactive web experie
 
 ---
 
+### Watch my contribution graph get eaten by the snake :snake:
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-snake.svg)
+
+---
+
 ### 👀 Profile Views
 
 ![Profile views](https://komarev.com/ghpvc/?username=DiptanGurung&label=Profile%20views&color=0e75b6&style=flat)
