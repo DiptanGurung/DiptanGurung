@@ -15,7 +15,7 @@ I'm a passionate full-stack developer who loves crafting interactive web experie
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/diptangurung)
+- 💼 [LinkedIn](www.linkedin.com/in/diptan-gurung-771b81360)
 - 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
 - 🌐 [Portfolio Website](https://yourwebsite.com) *(optional)*
 
