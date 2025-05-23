@@ -66,7 +66,7 @@ I'm a passionate full-stack developer who loves crafting interactive web experie
 ### Watch my contribution graph get eaten by the snake :snake:
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/DiptanGurung/MishManners/blob/output/github-snake.svg)
+![mishmanners snake gif](https://github.com/DiptanGurung/DiptanGurung/blob/output/github-snake.svg)
 
 ---
 
