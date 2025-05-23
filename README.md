@@ -1,5 +1,3 @@
-![Banner](https://raw.githubusercontent.com/DiptanGurung/DiptanGurung/main/banner.png)
-
 ## 👋 Hi there, I'm Diptan Gurung
 
 I'm a passionate full-stack developer who loves crafting interactive web experiences and exploring new technologies. Whether it's front-end design or back-end logic, I enjoy building impactful software that solves real-world problems. 🚀
@@ -64,19 +62,6 @@ I'm a passionate full-stack developer who loves crafting interactive web experie
 ### 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DiptanGurung&theme=react-dark)
-
----
-
-### 🎖️ Fun Badges
-
-![Open Source Lover](https://img.shields.io/badge/Open%20Source-%F0%9F%92%9A-blueviolet?style=for-the-badge)
-![Coffee Addict](https://img.shields.io/badge/Coffee-%E2%98%95%EF%B8%8F-brown?style=for-the-badge)
-![Night Owl](https://img.shields.io/badge/Night%20Owl-%F0%9F%90%B8-darkblue?style=for-the-badge)
-![Self Learner](https://img.shields.io/badge/Self%20Learner-📚-orange?style=for-the-badge)
-![Bug Squasher](https://img.shields.io/badge/Bug%20Squasher-🪲-red?style=for-the-badge)
-![Keyboard Ninja](https://img.shields.io/badge/Keyboard%20Ninja-⌨️-black?style=for-the-badge)
-![Code Wizard](https://img.shields.io/badge/Code%20Wizard-🧙‍♂️-purple?style=for-the-badge)
-![Stack Overflow Surfer](https://img.shields.io/badge/Stack%20Overflow-Surfer-orange?logo=stackoverflow&style=for-the-badge)
 
 ---
 
