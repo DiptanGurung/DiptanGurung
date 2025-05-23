@@ -67,12 +67,16 @@ I'm a passionate full-stack developer who loves crafting interactive web experie
 
 ---
 
-### 🎉 Fun Badges
+### 🎖️ Fun Badges
 
-![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%92%9A-blue)
-![Coffee Lover](https://img.shields.io/badge/Coffee-%E2%98%95%EF%B8%8F-critical)
-![Night Owl](https://img.shields.io/badge/Night%20Owl-%F0%9F%90%B8-black)
-![Self Learner](https://img.shields.io/badge/Self%20Learning-📚-orange)
+![Open Source Lover](https://img.shields.io/badge/Open%20Source-%F0%9F%92%9A-blueviolet?style=for-the-badge)
+![Coffee Addict](https://img.shields.io/badge/Coffee-%E2%98%95%EF%B8%8F-brown?style=for-the-badge)
+![Night Owl](https://img.shields.io/badge/Night%20Owl-%F0%9F%90%B8-darkblue?style=for-the-badge)
+![Self Learner](https://img.shields.io/badge/Self%20Learner-📚-orange?style=for-the-badge)
+![Bug Squasher](https://img.shields.io/badge/Bug%20Squasher-🪲-red?style=for-the-badge)
+![Keyboard Ninja](https://img.shields.io/badge/Keyboard%20Ninja-⌨️-black?style=for-the-badge)
+![Code Wizard](https://img.shields.io/badge/Code%20Wizard-🧙‍♂️-purple?style=for-the-badge)
+![Stack Overflow Surfer](https://img.shields.io/badge/Stack%20Overflow-Surfer-orange?logo=stackoverflow&style=for-the-badge)
 
 ---
 
