@@ -36,8 +36,3 @@ I'm a passionate full-stack developer who loves crafting interactive web experie
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DiptanGurung&theme=react-dark)
 
----
-
-### ⚡ Fun Fact
-
-I can solve a Rubik’s cube in under a minute — let's race sometime! 🧩
