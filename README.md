@@ -76,7 +76,6 @@ I'm a passionate full-stack developer who loves crafting interactive web experie
 ### 🎮 Currently Playing
 
 - 🔫 Valorant
-- 🧱 Minecraft
 - ⚽ FIFA
 - 👾 Mobile Legends
 
