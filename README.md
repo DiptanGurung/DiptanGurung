@@ -50,7 +50,7 @@ I'm a passionate full-stack developer who loves crafting interactive web experie
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DiptanGurung&theme=radical)]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DiptanGurung)(https://git.io/streak-stats)]
 
 ---
 
