@@ -44,7 +44,7 @@ I'm a passionate full-stack developer who loves crafting interactive web experie
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DiptanGurung)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DiptanGurung&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
