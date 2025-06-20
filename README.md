@@ -37,8 +37,8 @@ I'm a passionate full-stack developer who loves crafting interactive web experie
 
 ### 📊 GitHub Stats
 
-![Diptan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiptanGurung&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiptanGurung&layout=compact&theme=dark)
+![Diptan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiptanGurung&show_icons=true&theme=jolly)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiptanGurung&layout=compact&theme=jolly)
 
 ---
 
