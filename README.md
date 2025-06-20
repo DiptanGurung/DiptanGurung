@@ -50,7 +50,7 @@ I'm a passionate full-stack developer who loves crafting interactive web experie
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DiptanGurung&theme=tokyonight&hide_border=true)](https://github-readme-streak-stats.herokuapp.com?user=DiptanGurung)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DiptanGurung&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ---
 
