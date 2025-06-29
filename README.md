@@ -83,8 +83,3 @@ I'm a passionate full-stack developer who loves crafting interactive web experie
 > Because Oct 31 == Dec 25! 🎃🎄
 
 ---
-
-<details>
-  <summary>✨ A Secret Message for the Curious...</summary>
-  <p>You're awesome for scrolling this far. Stay curious, keep building, and never stop learning! 🌟</p>
-</details>
