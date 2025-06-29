@@ -76,10 +76,3 @@ I'm a passionate full-stack developer who loves crafting interactive web experie
 - 👾 Mobile Legends
 
 ---
-
-### 😂 Developer Meme of the Day
-
-> **Why do programmers always mix up Halloween and Christmas?**  
-> Because Oct 31 == Dec 25! 🎃🎄
-
----
